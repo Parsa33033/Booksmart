@@ -1,6 +1,6 @@
 # booksmart
 
-Booksmart is an application for learning vocabulary while reading books
+A book reading app which allows users to select words (using google api NLP and Neural nework to translate the selected words to the language of user's choosing) and important sentences. you can also memorize saved words using Leitner box method 
 
 ## Getting Started
 
